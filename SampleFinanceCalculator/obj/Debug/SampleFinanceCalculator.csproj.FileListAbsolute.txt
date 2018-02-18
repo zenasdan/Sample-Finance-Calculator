@@ -1,0 +1,7 @@
+C:\Users\Zenas\source\repos\SampleFinanceCalculator\SampleFinanceCalculator\bin\Debug\SampleFinanceCalculator.exe.config
+C:\Users\Zenas\source\repos\SampleFinanceCalculator\SampleFinanceCalculator\bin\Debug\SampleFinanceCalculator.exe
+C:\Users\Zenas\source\repos\SampleFinanceCalculator\SampleFinanceCalculator\bin\Debug\SampleFinanceCalculator.pdb
+C:\Users\Zenas\source\repos\SampleFinanceCalculator\SampleFinanceCalculator\obj\Debug\SampleFinanceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Zenas\source\repos\SampleFinanceCalculator\SampleFinanceCalculator\obj\Debug\SampleFinanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Zenas\source\repos\SampleFinanceCalculator\SampleFinanceCalculator\obj\Debug\SampleFinanceCalculator.exe
+C:\Users\Zenas\source\repos\SampleFinanceCalculator\SampleFinanceCalculator\obj\Debug\SampleFinanceCalculator.pdb
